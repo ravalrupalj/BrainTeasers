@@ -61,9 +61,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,7 +74,7 @@
       <recent name="D:\Rupal_study\Github_Projects\BrainTeasers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day 3.2">
+  <component name="RunManager" selected="Python.Day 5.4">
     <configuration name="Day 3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,19 +96,82 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Wumbology" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day 5.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Chinmaykumar Gajjar\PycharmProjects\MyProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_HOME" value="C:\Users\Rupal Gajjar\PycharmProjects\MyCode\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Wumbology.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Day 5.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day 5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Rupal Gajjar\PycharmProjects\MyCode\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Day 5.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day 5.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Rupal Gajjar\PycharmProjects\MyCode\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Day 5.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day 5.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Day 5.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,8 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day 5.4" />
+        <item itemvalue="Python.Day 5.3" />
+        <item itemvalue="Python.Day 5.2" />
+        <item itemvalue="Python.Day 5.1" />
         <item itemvalue="Python.Day 3.2" />
-        <item itemvalue="Python.Wumbology" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +229,22 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="644" y="54" key="#Day_3.2/0.23.1440.822@0.23.1440.822" timestamp="1587264455184" />
+    <state x="1035" y="0" key="#Day_5.1" timestamp="1587414878655">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1035" y="0" key="#Day_5.1/0.0.1920.1160@0.0.1920.1160" timestamp="1587414878655" />
+    <state x="1035" y="0" key="#Day_5.2" timestamp="1587419457359">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1035" y="0" key="#Day_5.2/0.0.1920.1160@0.0.1920.1160" timestamp="1587419457359" />
+    <state x="1035" y="0" key="#Day_5.3" timestamp="1587420295416">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1035" y="0" key="#Day_5.3/0.0.1920.1160@0.0.1920.1160" timestamp="1587420295416" />
+    <state x="1065" y="462" key="#Notifications" timestamp="1587387052675">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1065" y="462" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1587387052675" />
     <state x="1115" y="89" key="#Wumbology" timestamp="1586897677460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,30 +253,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
-    <state width="939" height="212" key="GridCell.Tab.0.bottom" timestamp="1587265978093">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="925" height="289" key="GridCell.Tab.0.bottom" timestamp="1587434122550">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="925" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1587434122550" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="939" height="212" key="GridCell.Tab.0.center" timestamp="1587265978093">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="925" height="289" key="GridCell.Tab.0.center" timestamp="1587434122550">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="925" height="289" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1587434122550" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="939" height="212" key="GridCell.Tab.0.left" timestamp="1587265978093">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="925" height="289" key="GridCell.Tab.0.left" timestamp="1587434122550">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="925" height="289" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1587434122550" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="939" height="212" key="GridCell.Tab.0.right" timestamp="1587265978093">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="925" height="289" key="GridCell.Tab.0.right" timestamp="1587434122550">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="925" height="289" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1587434122550" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state x="149" y="54" key="SettingsEditor" timestamp="1587266661212">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="199" y="44" key="SettingsEditor" timestamp="1587420648538">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
+    <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
     <state x="905" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587264378608">
       <screen x="0" y="23" width="1440" height="822" />
