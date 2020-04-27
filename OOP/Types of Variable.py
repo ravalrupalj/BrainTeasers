@@ -1,5 +1,5 @@
 #Types of Varible:
-# Class Varible(outside of init methon and Instance or static Variable(inside of init metnon)
+# Class Varible(outside of init method) and Instance or static Variable(inside of init metnon)
 class Car:
     wheels=4
     def __init__(self):
