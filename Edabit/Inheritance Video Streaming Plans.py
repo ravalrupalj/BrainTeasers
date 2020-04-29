@@ -12,7 +12,7 @@
 #BasicPlan.has_UHD ➞ False
 #BasicPlan.price ➞ "$8.99"
 #PremiumPlan.num_of_devices ➞ 4
-#Try using Inheritance to complete the challenge! If you're unsure what that means, try checking out the Python class tutorials in the Resources tab.
+#Try using Inheritance to complete the challenge!
 class BasicPlan:
     can_stream = True
     can_download = True

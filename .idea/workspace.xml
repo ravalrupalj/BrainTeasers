@@ -74,8 +74,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Getting started">
-    <configuration name="Getting started" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lerning">
+    <configuration name="Instance_attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Getting started.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Instance_attributes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Identical Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lerning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Identical Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Concepts/Lerning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Older_than_me (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Name Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Older_than_me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Name Classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Older_than_me" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Online Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Older_than_me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Online Shopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_of_even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Simple_OOP_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/sum_of_even_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Simple_OOP_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Getting started" />
-        <item itemvalue="Python.Older_than_me (1)" />
-        <item itemvalue="Python.Older_than_me" />
-        <item itemvalue="Python.Identical Characters" />
-        <item itemvalue="Python.sum_of_even_numbers" />
+        <item itemvalue="Python.Lerning" />
+        <item itemvalue="Python.Simple_OOP_Calculator" />
+        <item itemvalue="Python.Name Classes" />
+        <item itemvalue="Python.Instance_attributes" />
+        <item itemvalue="Python.Online Shopping" />
       </list>
     </recent_temporary>
   </component>
@@ -254,46 +254,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="927" height="258" key="GridCell.Tab.0.bottom" timestamp="1588041333819">
+    <state width="1887" height="253" key="GridCell.Tab.0.bottom" timestamp="1588107939445">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588041333819" />
+    <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939445" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="927" height="258" key="GridCell.Tab.0.center" timestamp="1588041333819">
+    <state width="1887" height="253" key="GridCell.Tab.0.center" timestamp="1588107939441">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="258" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588041333819" />
+    <state width="1887" height="253" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="927" height="258" key="GridCell.Tab.0.left" timestamp="1588041333819">
+    <state width="1887" height="253" key="GridCell.Tab.0.left" timestamp="1588107939441">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="258" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588041333819" />
+    <state width="1887" height="253" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="927" height="258" key="GridCell.Tab.0.right" timestamp="1588041333819">
+    <state width="1887" height="253" key="GridCell.Tab.0.right" timestamp="1588107939441">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="258" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588041333819" />
+    <state width="1887" height="253" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="927" height="363" key="GridCell.Tab.1.bottom" timestamp="1588000004737">
+    <state width="927" height="363" key="GridCell.Tab.1.bottom" timestamp="1588041542737">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588000004737" />
-    <state width="927" height="363" key="GridCell.Tab.1.center" timestamp="1588000004737">
+    <state width="927" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588041542737" />
+    <state width="927" height="363" key="GridCell.Tab.1.center" timestamp="1588041542737">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="363" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588000004737" />
-    <state width="927" height="363" key="GridCell.Tab.1.left" timestamp="1588000004737">
+    <state width="927" height="363" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588041542737" />
+    <state width="927" height="363" key="GridCell.Tab.1.left" timestamp="1588041542737">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="363" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588000004737" />
-    <state width="927" height="363" key="GridCell.Tab.1.right" timestamp="1588000004737">
+    <state width="927" height="363" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588041542737" />
+    <state width="927" height="363" key="GridCell.Tab.1.right" timestamp="1588041542737">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="927" height="363" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588000004737" />
+    <state width="927" height="363" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588041542737" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
