@@ -74,8 +74,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lerning">
-    <configuration name="Instance_attributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Errors">
+    <configuration name="Dictionary_to_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Instance_attributes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Dictionary_to_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lerning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Errors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Concepts/Lerning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Concepts/Errors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Name Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Scrabble_Hand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Name Classes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Scrabble_Hand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Online Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Skip_the_Drinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Online Shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Skip_the_Drinks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple_OOP_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum_of_People's_Budget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +171,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Simple_OOP_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Sum_of_People's_Budget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="The_Sweetest_Icecream" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/The_Sweetest_Icecream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lerning" />
-        <item itemvalue="Python.Simple_OOP_Calculator" />
-        <item itemvalue="Python.Name Classes" />
-        <item itemvalue="Python.Instance_attributes" />
-        <item itemvalue="Python.Online Shopping" />
+        <item itemvalue="Python.Errors" />
+        <item itemvalue="Python.Scrabble_Hand" />
+        <item itemvalue="Python.Dictionary_to_list" />
+        <item itemvalue="Python.Sum_of_People's_Budget" />
+        <item itemvalue="Python.Skip_the_Drinks" />
       </list>
     </recent_temporary>
   </component>
@@ -254,28 +275,28 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="1887" height="253" key="GridCell.Tab.0.bottom" timestamp="1588107939445">
+    <state width="927" height="254" key="GridCell.Tab.0.bottom" timestamp="1588194822744">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939445" />
+    <state width="927" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588194822744" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="253" key="GridCell.Tab.0.center" timestamp="1588107939441">
+    <state width="927" height="254" key="GridCell.Tab.0.center" timestamp="1588194822744">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
+    <state width="927" height="254" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588194822744" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="253" key="GridCell.Tab.0.left" timestamp="1588107939441">
+    <state width="927" height="254" key="GridCell.Tab.0.left" timestamp="1588194822744">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
+    <state width="927" height="254" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588194822744" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="1887" height="253" key="GridCell.Tab.0.right" timestamp="1588107939441">
+    <state width="927" height="254" key="GridCell.Tab.0.right" timestamp="1588194822744">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="253" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588107939441" />
+    <state width="927" height="254" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588194822744" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
     <state width="927" height="363" key="GridCell.Tab.1.bottom" timestamp="1588041542737">
@@ -304,6 +325,10 @@
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
     <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
+    <state x="712" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588190765819">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="712" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1588190765819" />
     <state x="905" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587264378608">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
