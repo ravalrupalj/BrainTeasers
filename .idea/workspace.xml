@@ -74,8 +74,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Get_Student_Top_Notes">
-    <configuration name="Book_Shelf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Western_Showdown">
+    <configuration name="Card_Counting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Book_Shelf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Card_Counting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Filtering_Star_Rating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Equality_of_3_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Filtering_Star_Rating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Equality_of_3_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Food_for_Everyone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hot_Pics_of_Danny_Devito" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Food_for_Everyone.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Hot_Pics_of_Danny_Devito.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Get_Student_Top_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Is_the_Number_Symmetrical" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Get_Student_Top_Notes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Is_the_Number_Symmetrical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Total_price_Groceries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Western_Showdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Total_price_Groceries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Western_Showdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Get_Student_Top_Notes" />
-        <item itemvalue="Python.Book_Shelf" />
-        <item itemvalue="Python.Food_for_Everyone" />
-        <item itemvalue="Python.Filtering_Star_Rating" />
-        <item itemvalue="Python.Total_price_Groceries" />
+        <item itemvalue="Python.Western_Showdown" />
+        <item itemvalue="Python.Card_Counting" />
+        <item itemvalue="Python.Hot_Pics_of_Danny_Devito" />
+        <item itemvalue="Python.Is_the_Number_Symmetrical" />
+        <item itemvalue="Python.Equality_of_3_values" />
       </list>
     </recent_temporary>
   </component>
@@ -274,51 +274,55 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1020" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1588275187254" />
+    <state x="1183" y="425" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1588471196478">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1183" y="425" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588471196478" />
     <state x="1038" y="251" key="FileChooserDialogImpl" timestamp="1588002798778">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="925" height="249" key="GridCell.Tab.0.bottom" timestamp="1588469580227">
+    <state width="1887" height="359" key="GridCell.Tab.0.bottom" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588469580227" />
+    <state width="1887" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="249" key="GridCell.Tab.0.center" timestamp="1588469580227">
+    <state width="1887" height="359" key="GridCell.Tab.0.center" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="249" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588469580227" />
+    <state width="1887" height="359" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="249" key="GridCell.Tab.0.left" timestamp="1588469580227">
+    <state width="1887" height="359" key="GridCell.Tab.0.left" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="249" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588469580227" />
+    <state width="1887" height="359" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="925" height="249" key="GridCell.Tab.0.right" timestamp="1588469580227">
+    <state width="1887" height="359" key="GridCell.Tab.0.right" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="249" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588469580227" />
+    <state width="1887" height="359" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="363" key="GridCell.Tab.1.bottom" timestamp="1588456218140">
+    <state width="1887" height="359" key="GridCell.Tab.1.bottom" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588456218140" />
-    <state width="1887" height="363" key="GridCell.Tab.1.center" timestamp="1588456218140">
+    <state width="1887" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
+    <state width="1887" height="359" key="GridCell.Tab.1.center" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="363" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588456218140" />
-    <state width="1887" height="363" key="GridCell.Tab.1.left" timestamp="1588456218140">
+    <state width="1887" height="359" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
+    <state width="1887" height="359" key="GridCell.Tab.1.left" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="363" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588456218140" />
-    <state width="1887" height="363" key="GridCell.Tab.1.right" timestamp="1588456218140">
+    <state width="1887" height="359" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
+    <state width="1887" height="359" key="GridCell.Tab.1.right" timestamp="1588637868483">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1887" height="363" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588456218140" />
+    <state width="1887" height="359" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588637868483" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
