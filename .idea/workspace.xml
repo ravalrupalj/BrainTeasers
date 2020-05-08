@@ -43,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -74,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Convert_to_Decial_Notation">
-    <configuration name="Alphabet_Soup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.X_and_Y_Coordinates">
+    <configuration name="Count_Letters_in_a_Word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Alphabet_Soup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Count_Letters_in_a_Word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Convert_to_Decial_Notation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Moving_to_the_End" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Convert_to_Decial_Notation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Moving_to_the_End.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Is_String_Order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Secret Society" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,49 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Is_String_Order.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lexicorgraphically First_last" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Lexicorgraphically First_last.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Repeating_Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Repeating_Letters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Secret Society.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,13 +160,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Which_Number_Is_Not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Which_Number_Is_Not.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="X_and_Y_Coordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/X_and_Y_Coordinates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Convert_to_Decial_Notation" />
-        <item itemvalue="Python.Lexicorgraphically First_last" />
-        <item itemvalue="Python.Is_String_Order" />
-        <item itemvalue="Python.Alphabet_Soup" />
-        <item itemvalue="Python.Repeating_Letters" />
+        <item itemvalue="Python.X_and_Y_Coordinates" />
+        <item itemvalue="Python.Which_Number_Is_Not" />
+        <item itemvalue="Python.Count_Letters_in_a_Word" />
+        <item itemvalue="Python.Moving_to_the_End" />
+        <item itemvalue="Python.Secret Society" />
       </list>
     </recent_temporary>
   </component>
@@ -270,6 +271,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1115" y="89" key="#Wumbology/0.0.1920.1040@0.0.1920.1040" timestamp="1586897677460" />
+    <state x="815" y="204" width="1105" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588972221598">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="815" y="204" width="1105" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588972221598" />
     <state x="1020" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588275187254">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -278,51 +283,55 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1183" y="425" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588471196478" />
+    <state x="1175" y="232" key="EnvironmentVariablesDialog" timestamp="1588972209959">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1175" y="232" key="EnvironmentVariablesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588972209959" />
     <state x="1038" y="251" key="FileChooserDialogImpl" timestamp="1588002798778">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="928" height="236" key="GridCell.Tab.0.bottom" timestamp="1588887120723">
+    <state width="922" height="236" key="GridCell.Tab.0.bottom" timestamp="1588977248676">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="928" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588887120723" />
+    <state width="922" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588977248676" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="928" height="236" key="GridCell.Tab.0.center" timestamp="1588887120723">
+    <state width="922" height="236" key="GridCell.Tab.0.center" timestamp="1588977248676">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="928" height="236" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588887120723" />
+    <state width="922" height="236" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588977248676" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="928" height="236" key="GridCell.Tab.0.left" timestamp="1588887120723">
+    <state width="922" height="236" key="GridCell.Tab.0.left" timestamp="1588977248676">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="928" height="236" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588887120723" />
+    <state width="922" height="236" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588977248660" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="928" height="236" key="GridCell.Tab.0.right" timestamp="1588887120723">
+    <state width="922" height="236" key="GridCell.Tab.0.right" timestamp="1588977248676">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="928" height="236" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588887120723" />
+    <state width="922" height="236" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588977248676" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="357" key="GridCell.Tab.1.bottom" timestamp="1588794576389">
+    <state width="928" height="354" key="GridCell.Tab.1.bottom" timestamp="1588970740382">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="357" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588794576389" />
-    <state width="925" height="357" key="GridCell.Tab.1.center" timestamp="1588794576389">
+    <state width="928" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588970740382" />
+    <state width="928" height="354" key="GridCell.Tab.1.center" timestamp="1588970740382">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="357" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588794576389" />
-    <state width="925" height="357" key="GridCell.Tab.1.left" timestamp="1588794576389">
+    <state width="928" height="354" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588970740382" />
+    <state width="928" height="354" key="GridCell.Tab.1.left" timestamp="1588970740382">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="357" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588794576389" />
-    <state width="925" height="357" key="GridCell.Tab.1.right" timestamp="1588794576389">
+    <state width="928" height="354" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588970740382" />
+    <state width="928" height="354" key="GridCell.Tab.1.right" timestamp="1588970740382">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="357" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588794576389" />
+    <state width="928" height="354" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588970740382" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
