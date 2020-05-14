@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Count_Palindrome_Numbers">
-    <configuration name="Apocalyptic NUmbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Solving_Exponential">
+    <configuration name="Applying_Discounts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Apocalyptic NUmbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Applying_Discounts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Automorphic Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Edabit_Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Automorphic Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Edabit_Challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Count_Palindrome_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Solving_Exponential" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Count_Palindrome_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Solving_Exponential.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numbers_to_Arrays_and_Vice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Square_Every_Digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,28 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Numbers_to_Arrays_and_Vice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Return_the_End_Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Return_the_End_Letters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Square_Every_Digit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,13 +181,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Triangular_Number_Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Triangular_Number_Sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Count_Palindrome_Numbers" />
-        <item itemvalue="Python.Apocalyptic NUmbers" />
-        <item itemvalue="Python.Automorphic Numbers" />
-        <item itemvalue="Python.Numbers_to_Arrays_and_Vice" />
-        <item itemvalue="Python.Return_the_End_Letters" />
+        <item itemvalue="Python.Solving_Exponential" />
+        <item itemvalue="Python.Applying_Discounts" />
+        <item itemvalue="Python.Square_Every_Digit" />
+        <item itemvalue="Python.Edabit_Challenge" />
+        <item itemvalue="Python.Triangular_Number_Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="925" height="347" key="GridCell.Tab.0.bottom" timestamp="1589335423803">
+    <state width="926" height="233" key="GridCell.Tab.0.bottom" timestamp="1589417836281">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589335423803" />
+    <state width="926" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="347" key="GridCell.Tab.0.center" timestamp="1589335423803">
+    <state width="926" height="233" key="GridCell.Tab.0.center" timestamp="1589417836281">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589335423803" />
+    <state width="926" height="233" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="347" key="GridCell.Tab.0.left" timestamp="1589335423803">
+    <state width="926" height="233" key="GridCell.Tab.0.left" timestamp="1589417836281">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589335423803" />
+    <state width="926" height="233" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="925" height="347" key="GridCell.Tab.0.right" timestamp="1589335423803">
+    <state width="926" height="233" key="GridCell.Tab.0.right" timestamp="1589417836281">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589335423803" />
+    <state width="926" height="233" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="925" height="347" key="GridCell.Tab.1.bottom" timestamp="1589335424741">
+    <state width="926" height="346" key="GridCell.Tab.1.bottom" timestamp="1589417721103">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589335424741" />
-    <state width="925" height="347" key="GridCell.Tab.1.center" timestamp="1589335424741">
+    <state width="926" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
+    <state width="926" height="346" key="GridCell.Tab.1.center" timestamp="1589417721103">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589335424741" />
-    <state width="925" height="347" key="GridCell.Tab.1.left" timestamp="1589335424741">
+    <state width="926" height="346" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
+    <state width="926" height="346" key="GridCell.Tab.1.left" timestamp="1589417721103">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589335424741" />
-    <state width="925" height="347" key="GridCell.Tab.1.right" timestamp="1589335424741">
+    <state width="926" height="346" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
+    <state width="926" height="346" key="GridCell.Tab.1.right" timestamp="1589417721103">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="925" height="347" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589335424741" />
+    <state width="926" height="346" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -352,21 +352,9 @@
     <state x="1207" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586897641094" />
     <state x="1207" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1589312710959" />
     <state x="905" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.822@0.23.1440.822" timestamp="1587264378608" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Edabit/Count_Palindrome_Numbers.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Edabit/Count_Palindrome_Numbers.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="933" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1589414213735">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="933" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1589414213735" />
   </component>
 </project>
