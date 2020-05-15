@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Solving_Exponential">
-    <configuration name="Applying_Discounts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Letter_Occurrences_Per_Word">
+    <configuration name="Balancing_Scales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Applying_Discounts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Balancing_Scales.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Edabit_Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Letter_Occurrences_Per_Word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Edabit_Challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Letter_Occurrences_Per_Word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Solving_Exponential" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Max_Adjacent_Product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Solving_Exponential.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Max_Adjacent_Product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square_Every_Digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Numbered_Alphabet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Square_Every_Digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Numbered_Alphabet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Return_the_Highest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Return_the_Highest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,34 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Triangular_Number_Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Triangular_Number_Sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Solving_Exponential" />
-        <item itemvalue="Python.Applying_Discounts" />
-        <item itemvalue="Python.Square_Every_Digit" />
-        <item itemvalue="Python.Edabit_Challenge" />
-        <item itemvalue="Python.Triangular_Number_Sequence" />
+        <item itemvalue="Python.Letter_Occurrences_Per_Word" />
+        <item itemvalue="Python.Return_the_Highest" />
+        <item itemvalue="Python.Numbered_Alphabet" />
+        <item itemvalue="Python.Balancing_Scales" />
+        <item itemvalue="Python.Max_Adjacent_Product" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="926" height="233" key="GridCell.Tab.0.bottom" timestamp="1589417836281">
+    <state width="925" height="169" key="GridCell.Tab.0.bottom" timestamp="1589506417118">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
+    <state width="925" height="169" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589506417118" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="233" key="GridCell.Tab.0.center" timestamp="1589417836281">
+    <state width="925" height="169" key="GridCell.Tab.0.center" timestamp="1589506417118">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="233" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
+    <state width="925" height="169" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589506417118" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="233" key="GridCell.Tab.0.left" timestamp="1589417836281">
+    <state width="925" height="169" key="GridCell.Tab.0.left" timestamp="1589506417118">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="233" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
+    <state width="925" height="169" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589506417118" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="926" height="233" key="GridCell.Tab.0.right" timestamp="1589417836281">
+    <state width="925" height="169" key="GridCell.Tab.0.right" timestamp="1589506417118">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="233" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589417836281" />
+    <state width="925" height="169" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589506417118" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="346" key="GridCell.Tab.1.bottom" timestamp="1589417721103">
+    <state width="925" height="345" key="GridCell.Tab.1.bottom" timestamp="1589506317085">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
-    <state width="926" height="346" key="GridCell.Tab.1.center" timestamp="1589417721103">
+    <state width="925" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589506317085" />
+    <state width="925" height="345" key="GridCell.Tab.1.center" timestamp="1589506317085">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="346" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
-    <state width="926" height="346" key="GridCell.Tab.1.left" timestamp="1589417721103">
+    <state width="925" height="345" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589506317085" />
+    <state width="925" height="345" key="GridCell.Tab.1.left" timestamp="1589506317085">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="346" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
-    <state width="926" height="346" key="GridCell.Tab.1.right" timestamp="1589417721103">
+    <state width="925" height="345" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589506317085" />
+    <state width="925" height="345" key="GridCell.Tab.1.right" timestamp="1589506317085">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="346" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589417721103" />
+    <state width="925" height="345" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589506317085" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
