@@ -8,8 +8,6 @@ def repeat(item,times):
         l.append(item)
     return l
 
-
-
 print(repeat("edabit", 3) )
 #➞ ["edabit", "edabit", "edabit"]
 

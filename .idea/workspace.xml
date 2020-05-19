@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Repeat_the_Same">
-    <configuration name="Owofied_A_sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Split_String_Based">
+    <configuration name="Correct_Inequality_Signs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Owofied_A_sentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Correct_Inequality_Signs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Repeat_the_Same" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prefixes_vs_Suffixes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Repeat_the_Same.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Prefixes_vs_Suffixes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Regex_Series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Regex_Series.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Retrieve_the_Subreddit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Retrieve_the_Subreddit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Split_String_Based" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Split_String_Based.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,76 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Typing_Game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Typing_Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Typing_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Typing_Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Valid_zip_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Rupal Gajjar\Documents\GitHub\BrainTeasers\Edabit\Valid_zip_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Repeat_the_Same" />
-        <item itemvalue="Python.Typing_Game (1)" />
-        <item itemvalue="Python.Typing_Game" />
-        <item itemvalue="Python.Owofied_A_sentence" />
-        <item itemvalue="Python.Valid_zip_code" />
+        <item itemvalue="Python.Split_String_Based" />
+        <item itemvalue="Python.Regex_Series" />
+        <item itemvalue="Python.Correct_Inequality_Signs" />
+        <item itemvalue="Python.Prefixes_vs_Suffixes" />
+        <item itemvalue="Python.Retrieve_the_Subreddit" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="926" height="166" key="GridCell.Tab.0.bottom" timestamp="1589769222744">
+    <state width="926" height="166" key="GridCell.Tab.0.bottom" timestamp="1589843269378">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589769222744" />
+    <state width="926" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589843269378" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.center" timestamp="1589769222744">
+    <state width="926" height="166" key="GridCell.Tab.0.center" timestamp="1589843269378">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589769222744" />
+    <state width="926" height="166" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589843269378" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.left" timestamp="1589769222744">
+    <state width="926" height="166" key="GridCell.Tab.0.left" timestamp="1589843269378">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589769222744" />
+    <state width="926" height="166" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589843269378" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="926" height="166" key="GridCell.Tab.0.right" timestamp="1589769222744">
+    <state width="926" height="166" key="GridCell.Tab.0.right" timestamp="1589843269378">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589769222744" />
+    <state width="926" height="166" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589843269378" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="342" key="GridCell.Tab.1.bottom" timestamp="1589752283334">
+    <state width="926" height="342" key="GridCell.Tab.1.bottom" timestamp="1589840366989">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589752283334" />
-    <state width="926" height="342" key="GridCell.Tab.1.center" timestamp="1589752283334">
+    <state width="926" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589840366989" />
+    <state width="926" height="342" key="GridCell.Tab.1.center" timestamp="1589840366989">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589752283334" />
-    <state width="926" height="342" key="GridCell.Tab.1.left" timestamp="1589752283334">
+    <state width="926" height="342" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589840366989" />
+    <state width="926" height="342" key="GridCell.Tab.1.left" timestamp="1589840366989">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589752283334" />
-    <state width="926" height="342" key="GridCell.Tab.1.right" timestamp="1589752283334">
+    <state width="926" height="342" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589840366989" />
+    <state width="926" height="342" key="GridCell.Tab.1.right" timestamp="1589840366989">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589752283334" />
+    <state width="926" height="342" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589840366989" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
