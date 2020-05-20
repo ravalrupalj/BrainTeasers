@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Iterated_Square_Root">
-    <configuration name="Correct_Inequality_Signs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.The_Fibonacci">
+    <configuration name="Capital_Split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Correct_Inequality_Signs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Capital_Split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Emphasise_the_Words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Is_Johnny_Making_Progress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Emphasise_the_Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Is_Johnny_Making_Progress.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iterated_Square_Root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Perfect_Square_Patch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Iterated_Square_Root.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Perfect_Square_Patch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regex_Series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="The_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,28 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Regex_Series.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Split_String_Based" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Split_String_Based.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/The_Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,13 +181,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Two_Distinct_Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Two_Distinct_Elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Iterated_Square_Root" />
-        <item itemvalue="Python.Emphasise_the_Words" />
-        <item itemvalue="Python.Split_String_Based" />
-        <item itemvalue="Python.Regex_Series" />
-        <item itemvalue="Python.Correct_Inequality_Signs" />
+        <item itemvalue="Python.The_Fibonacci" />
+        <item itemvalue="Python.Perfect_Square_Patch" />
+        <item itemvalue="Python.Is_Johnny_Making_Progress" />
+        <item itemvalue="Python.Capital_Split" />
+        <item itemvalue="Python.Two_Distinct_Elements" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="926" height="166" key="GridCell.Tab.0.bottom" timestamp="1589939956587">
+    <state width="926" height="342" key="GridCell.Tab.0.bottom" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589939956587" />
+    <state width="926" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.center" timestamp="1589939956587">
+    <state width="926" height="342" key="GridCell.Tab.0.center" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589939956587" />
+    <state width="926" height="342" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.left" timestamp="1589939956587">
+    <state width="926" height="342" key="GridCell.Tab.0.left" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589939956587" />
+    <state width="926" height="342" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="926" height="166" key="GridCell.Tab.0.right" timestamp="1589939956587">
+    <state width="926" height="342" key="GridCell.Tab.0.right" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589939956587" />
+    <state width="926" height="342" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="342" key="GridCell.Tab.1.bottom" timestamp="1589939526971">
+    <state width="926" height="342" key="GridCell.Tab.1.bottom" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589939526971" />
-    <state width="926" height="342" key="GridCell.Tab.1.center" timestamp="1589939526971">
+    <state width="926" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
+    <state width="926" height="342" key="GridCell.Tab.1.center" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589939526971" />
-    <state width="926" height="342" key="GridCell.Tab.1.left" timestamp="1589939526971">
+    <state width="926" height="342" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
+    <state width="926" height="342" key="GridCell.Tab.1.left" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589939526971" />
-    <state width="926" height="342" key="GridCell.Tab.1.right" timestamp="1589939526971">
+    <state width="926" height="342" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
+    <state width="926" height="342" key="GridCell.Tab.1.right" timestamp="1590011790251">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589939526971" />
+    <state width="926" height="342" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590011790251" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -356,5 +356,41 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="933" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1589414213735" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Iterated_Square_Root.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Iterated_Square_Root.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Is_Johnny_Making_Progress.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Is_Johnny_Making_Progress.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/The_Fibonacci.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/The_Fibonacci.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
