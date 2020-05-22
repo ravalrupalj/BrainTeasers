@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Box_Completely_Filled">
-    <configuration name="Box_Completely_Filled" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Algorithms _II_The Euclidean Algorithm">
+    <configuration name="Algorithms _II_The Euclidean Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Box_Completely_Filled.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Algorithms _II_The Euclidean Algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Censor_Words_Longer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Algorithms _I_Introduction to Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Censor_Words_Longer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Algorithms _I_Introduction to Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Explosion_Intensity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzz_Interview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Explosion_Intensity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/FizzBuzz_Interview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Musical_Cadences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Last_Digit_ultimate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Musical_Cadences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Last_Digit_ultimate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Stupid_Addition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Percentage_of_Box_filled" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Stupid_Addition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Percentage_of_Box_filled.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Box_Completely_Filled" />
-        <item itemvalue="Python.Explosion_Intensity" />
-        <item itemvalue="Python.Musical_Cadences" />
-        <item itemvalue="Python.Censor_Words_Longer" />
-        <item itemvalue="Python.Stupid_Addition" />
+        <item itemvalue="Python.Algorithms _II_The Euclidean Algorithm" />
+        <item itemvalue="Python.Percentage_of_Box_filled" />
+        <item itemvalue="Python.Last_Digit_ultimate" />
+        <item itemvalue="Python.Algorithms _I_Introduction to Recursion" />
+        <item itemvalue="Python.FizzBuzz_Interview" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="926" height="166" key="GridCell.Tab.0.bottom" timestamp="1590098718421">
+    <state width="925" height="344" key="GridCell.Tab.0.bottom" timestamp="1590186261485">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590098718421" />
+    <state width="925" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590186261485" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.center" timestamp="1590098718421">
+    <state width="925" height="344" key="GridCell.Tab.0.center" timestamp="1590186261485">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590098718421" />
+    <state width="925" height="344" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590186261485" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="166" key="GridCell.Tab.0.left" timestamp="1590098718421">
+    <state width="925" height="344" key="GridCell.Tab.0.left" timestamp="1590186261485">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590098718421" />
+    <state width="925" height="344" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590186261485" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="926" height="166" key="GridCell.Tab.0.right" timestamp="1590098718421">
+    <state width="925" height="344" key="GridCell.Tab.0.right" timestamp="1590186261485">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="166" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590098718421" />
+    <state width="925" height="344" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590186261485" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="342" key="GridCell.Tab.1.bottom" timestamp="1590098210937">
+    <state width="925" height="344" key="GridCell.Tab.1.bottom" timestamp="1590186262338">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590098210937" />
-    <state width="926" height="342" key="GridCell.Tab.1.center" timestamp="1590098210937">
+    <state width="925" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590186262338" />
+    <state width="925" height="344" key="GridCell.Tab.1.center" timestamp="1590186262338">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590098210937" />
-    <state width="926" height="342" key="GridCell.Tab.1.left" timestamp="1590098210937">
+    <state width="925" height="344" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590186262338" />
+    <state width="925" height="344" key="GridCell.Tab.1.left" timestamp="1590186262338">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590098210937" />
-    <state width="926" height="342" key="GridCell.Tab.1.right" timestamp="1590098210937">
+    <state width="925" height="344" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590186262338" />
+    <state width="925" height="344" key="GridCell.Tab.1.right" timestamp="1590186262338">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="342" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590098210937" />
+    <state width="925" height="344" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590186262338" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -389,6 +389,20 @@
           <url>file://$PROJECT_DIR$/Edabit/The_Fibonacci.py</url>
           <line>5</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Algorithms _I_Introduction to Recursion.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Algorithms _I_Introduction to Recursion.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Edabit/Algorithms _I_Introduction to Recursion.py</url>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
