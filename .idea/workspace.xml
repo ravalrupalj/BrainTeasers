@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Change_Every_Letter">
-    <configuration name="Algorithms _II_The Euclidean Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Number_of_Lists_in">
+    <configuration name="All_Ocurrences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Algorithms _II_The Euclidean Algorithm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/All_Ocurrences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Change_Every_Letter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Emptying_the_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Change_Every_Letter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Emptying_the_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Letters Shared_Between" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Intersecting_Intervals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Letters Shared_Between.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Intersecting_Intervals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Making_a_Countdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Number_of_Lists_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Making_a_Countdown.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Number_of_Lists_in.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Percentage_of_Box_filled" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum_Frations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Percentage_of_Box_filled.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Sum_Frations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Change_Every_Letter" />
-        <item itemvalue="Python.Making_a_Countdown" />
-        <item itemvalue="Python.Letters Shared_Between" />
-        <item itemvalue="Python.Algorithms _II_The Euclidean Algorithm" />
-        <item itemvalue="Python.Percentage_of_Box_filled" />
+        <item itemvalue="Python.Number_of_Lists_in" />
+        <item itemvalue="Python.Emptying_the_values" />
+        <item itemvalue="Python.All_Ocurrences" />
+        <item itemvalue="Python.Intersecting_Intervals" />
+        <item itemvalue="Python.Sum_Frations" />
       </list>
     </recent_temporary>
   </component>
@@ -292,46 +292,46 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="926" height="164" key="GridCell.Tab.0.bottom" timestamp="1590292513824">
+    <state width="926" height="164" key="GridCell.Tab.0.bottom" timestamp="1590354414847">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590292513824" />
+    <state width="926" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590354414847" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="164" key="GridCell.Tab.0.center" timestamp="1590292513824">
+    <state width="926" height="164" key="GridCell.Tab.0.center" timestamp="1590354414847">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="164" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590292513824" />
+    <state width="926" height="164" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590354414847" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="164" key="GridCell.Tab.0.left" timestamp="1590292513824">
+    <state width="926" height="164" key="GridCell.Tab.0.left" timestamp="1590354414847">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="164" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590292513824" />
+    <state width="926" height="164" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590354414847" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="926" height="164" key="GridCell.Tab.0.right" timestamp="1590292513824">
+    <state width="926" height="164" key="GridCell.Tab.0.right" timestamp="1590354414847">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="164" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590292513824" />
+    <state width="926" height="164" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590354414847" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="926" height="341" key="GridCell.Tab.1.bottom" timestamp="1590291690977">
+    <state width="926" height="341" key="GridCell.Tab.1.bottom" timestamp="1590352453630">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590291690977" />
-    <state width="926" height="341" key="GridCell.Tab.1.center" timestamp="1590291690977">
+    <state width="926" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590352453630" />
+    <state width="926" height="341" key="GridCell.Tab.1.center" timestamp="1590352453630">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="341" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590291690977" />
-    <state width="926" height="341" key="GridCell.Tab.1.left" timestamp="1590291690977">
+    <state width="926" height="341" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590352453630" />
+    <state width="926" height="341" key="GridCell.Tab.1.left" timestamp="1590352453630">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="341" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590291690977" />
-    <state width="926" height="341" key="GridCell.Tab.1.right" timestamp="1590291690977">
+    <state width="926" height="341" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590352453630" />
+    <state width="926" height="341" key="GridCell.Tab.1.right" timestamp="1590352453630">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="926" height="341" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590291690977" />
+    <state width="926" height="341" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590352453630" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -405,6 +405,13 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
