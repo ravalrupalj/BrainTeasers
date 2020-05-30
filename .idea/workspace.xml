@@ -65,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,7 +75,7 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Evaluating_Fact">
+  <component name="RunManager" selected="Python.One_button">
     <configuration name="Evaluating_Fact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,9 +83,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\raval\PycharmProjects\Myproject\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Evaluating_Fact.py" />
@@ -110,6 +110,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Format_IX.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="One_button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/One_button.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,27 +181,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The_Fizz_Buzz_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/The_Fizz_Buzz_Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="The_Sweetest_Icecream" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.One_button" />
         <item itemvalue="Python.Evaluating_Fact" />
         <item itemvalue="Python.REGEX_Digit" />
         <item itemvalue="Python.Format_IX" />
         <item itemvalue="Python.Sum_of_Decimals" />
-        <item itemvalue="Python.The_Fizz_Buzz_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -263,9 +263,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1035" y="0" key="#Day_5.3/0.0.1920.1160@0.0.1920.1160" timestamp="1587420295416" />
-    <state x="1065" y="462" key="#Notifications" timestamp="1587387052675">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="484" y="7" key="#Evaluating_Fact" timestamp="1590875078753">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="484" y="7" key="#Evaluating_Fact/0.0.1536.824@0.0.1536.824" timestamp="1590875078753" />
+    <state x="852" y="328" key="#Notifications" timestamp="1590875019201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="852" y="328" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1590875019201" />
     <state x="1065" y="462" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1587387052675" />
     <state x="1115" y="89" key="#Wumbology" timestamp="1586897677460">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -292,27 +297,31 @@
     </state>
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="1887" height="255" key="GridCell.Tab.0.bottom" timestamp="1590790923421">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1509" height="121" key="GridCell.Tab.0.bottom" timestamp="1590879232704">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="121" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590879232704" />
     <state width="1887" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="255" key="GridCell.Tab.0.center" timestamp="1590790923421">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1509" height="121" key="GridCell.Tab.0.center" timestamp="1590879232704">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="121" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590879232704" />
     <state width="1887" height="255" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="255" key="GridCell.Tab.0.left" timestamp="1590790923421">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1509" height="121" key="GridCell.Tab.0.left" timestamp="1590879232704">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="121" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590879232704" />
     <state width="1887" height="255" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="1887" height="255" key="GridCell.Tab.0.right" timestamp="1590790923421">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1509" height="121" key="GridCell.Tab.0.right" timestamp="1590879232704">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="121" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590879232704" />
     <state width="1887" height="255" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
@@ -336,9 +345,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1093" y="133" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588002879846" />
-    <state x="199" y="44" key="SettingsEditor" timestamp="1587420648538">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="159" y="0" key="SettingsEditor" timestamp="1590876324014">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="159" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590876324014" />
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
     <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
