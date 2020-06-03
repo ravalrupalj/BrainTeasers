@@ -64,7 +64,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/TicTacToe" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -75,8 +75,8 @@
       <recent name="$PROJECT_DIR$/Edabit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Format_X">
-    <configuration name="Format_IV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.The_Fibo_Num">
+    <configuration name="Converting_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Format_IV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Converting_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Format_VI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dont_Roll_Doubles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Format_VI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Dont_Roll_Doubles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Formate_I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Squares_and_Cubes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Formate_I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Squares_and_Cubes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Formate_III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="The_Fibo_Num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Formate_III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/The_Fibo_Num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.The_Fibo_Num" />
+        <item itemvalue="Python.Dont_Roll_Doubles" />
+        <item itemvalue="Python.Converting_" />
+        <item itemvalue="Python.Squares_and_Cubes" />
         <item itemvalue="Python.Format_X" />
-        <item itemvalue="Python.Format_VI" />
-        <item itemvalue="Python.Format_IV" />
-        <item itemvalue="Python.Formate_III" />
-        <item itemvalue="Python.Formate_I" />
       </list>
     </recent_temporary>
   </component>
@@ -287,63 +287,68 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1175" y="232" key="EnvironmentVariablesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588972209959" />
-    <state x="1038" y="251" key="FileChooserDialogImpl" timestamp="1588002798778">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
-    <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="618" height="120" key="GridCell.Tab.0.bottom" timestamp="1591047088520">
+    <state x="692" y="164" key="FileChooserDialogImpl" timestamp="1591130300766">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="618" height="120" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591047088520" />
+    <state x="692" y="164" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591130300766" />
+    <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
+    <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
+    <state width="617" height="163" key="GridCell.Tab.0.bottom" timestamp="1591130007071">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="617" height="163" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591130007071" />
     <state width="1887" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="618" height="120" key="GridCell.Tab.0.center" timestamp="1591047088520">
+    <state width="617" height="163" key="GridCell.Tab.0.center" timestamp="1591130007071">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="618" height="120" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591047088520" />
+    <state width="617" height="163" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591130007071" />
     <state width="1887" height="255" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="618" height="120" key="GridCell.Tab.0.left" timestamp="1591047088520">
+    <state width="617" height="163" key="GridCell.Tab.0.left" timestamp="1591130007071">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="618" height="120" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591047088520" />
+    <state width="617" height="163" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591130007071" />
     <state width="1887" height="255" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="618" height="120" key="GridCell.Tab.0.right" timestamp="1591047088520">
+    <state width="617" height="163" key="GridCell.Tab.0.right" timestamp="1591130007071">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="618" height="120" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591047088520" />
+    <state width="617" height="163" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591130007071" />
     <state width="1887" height="255" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="1887" height="255" key="GridCell.Tab.1.bottom" timestamp="1590790924281">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="617" height="163" key="GridCell.Tab.1.bottom" timestamp="1591130007075">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state width="617" height="163" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591130007075" />
     <state width="1887" height="255" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="1887" height="255" key="GridCell.Tab.1.center" timestamp="1590790924281">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="617" height="163" key="GridCell.Tab.1.center" timestamp="1591130007075">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state width="617" height="163" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1591130007075" />
     <state width="1887" height="255" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="1887" height="255" key="GridCell.Tab.1.left" timestamp="1590790924281">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="617" height="163" key="GridCell.Tab.1.left" timestamp="1591130007075">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state width="617" height="163" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1591130007075" />
     <state width="1887" height="255" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="1887" height="255" key="GridCell.Tab.1.right" timestamp="1590790924281">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="617" height="163" key="GridCell.Tab.1.right" timestamp="1591130007075">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state width="617" height="163" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1591130007075" />
     <state width="1887" height="255" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1093" y="133" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588002879846" />
-    <state x="133" y="29" key="SettingsEditor" timestamp="1591038647549">
+    <state x="133" y="29" key="SettingsEditor" timestamp="1591125054636">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="133" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591038647549" />
+    <state x="133" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591125054636" />
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
     <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
