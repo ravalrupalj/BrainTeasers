@@ -4,13 +4,14 @@
 #"nines:your answer, threes:your answer, ones:your answer"
 #You need to find out how many ones, threes, and nines it would at least take for the number of each to add up to the given integer when multiplied by one, three or nine (depends).
 class ones_threes_nines:
-    def __init__(self,num):
-        self.num=num
-        self.ones=num/self.ones
-        self.threes
+    def __init__(self,n):
+        self.answer = 'nines:{}, threes:{}, ones:{}'.format(n // 9,
+                                                                (n % 9) // 3,
+                                                                n % 9 % 3)
 
+print(ones_threes_nines(10).answer)
 #Examples
-ones_threes_nines(10)
+print(ones_threes_nines(10).answer)
 #➞ "nines:1, threes:0, ones:1"
 
 ones_threes_nines(15)
