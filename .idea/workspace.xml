@@ -44,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Stub" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -62,21 +63,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raval\Documents\GitHub\BrainTeasers\python_Selenium" />
+      <recent name="C:\Users\raval\Documents\GitHub\BrainTeasers\Edabit" />
+      <recent name="$PROJECT_DIR$/Edabit" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Rupal_study\Github_Projects\BrainTeasers" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Edabit" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Product_of_remaining">
-    <configuration name="Add_two_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Tic_Tac_Toe">
+    <configuration name="Factor_Tractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Add_two_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Factor_Tractor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Does_cargo_fit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Growing_and_Shrinking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Does_cargo_fit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Growing_and_Shrinking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="One,Threes_Version_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Read_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BrainTeasers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,53 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/One,Threes_Version_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ones,Threes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Ones,Threes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Product_of_remaining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BrainTeasers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Product_of_remaining.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_Selenium/Read_write.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,13 +164,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tic_Tac_Toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Edabit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Edabit/Tic_Tac_Toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Webdriver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrainTeasers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_Selenium/Webdriver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Product_of_remaining" />
-        <item itemvalue="Python.Does_cargo_fit" />
-        <item itemvalue="Python.Add_two_string" />
-        <item itemvalue="Python.One,Threes_Version_2" />
-        <item itemvalue="Python.Ones,Threes" />
+        <item itemvalue="Python.Tic_Tac_Toe" />
+        <item itemvalue="Python.Webdriver" />
+        <item itemvalue="Python.Factor_Tractor" />
+        <item itemvalue="Python.Growing_and_Shrinking" />
+        <item itemvalue="Python.Read_write" />
       </list>
     </recent_temporary>
   </component>
@@ -276,9 +280,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="815" y="204" width="1105" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588972221598" />
-    <state x="1020" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588275187254">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="816" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593549350430">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="816" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593549350430" />
     <state x="1020" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1588275187254" />
     <state x="1183" y="425" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1588471196478">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -295,71 +300,71 @@
     <state x="830" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593302684633" />
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
-    <state width="748" height="180" key="GridCell.Tab.0.bottom" timestamp="1593357892037">
+    <state width="746" height="162" key="GridCell.Tab.0.bottom" timestamp="1593641379115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593641379115" />
     <state width="1887" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="748" height="180" key="GridCell.Tab.0.center" timestamp="1593357892037">
+    <state width="746" height="162" key="GridCell.Tab.0.center" timestamp="1593641379115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593641379115" />
     <state width="1887" height="255" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="748" height="180" key="GridCell.Tab.0.left" timestamp="1593357892037">
+    <state width="746" height="162" key="GridCell.Tab.0.left" timestamp="1593641379115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593641379115" />
     <state width="1887" height="255" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587264460494" />
-    <state width="748" height="180" key="GridCell.Tab.0.right" timestamp="1593357892037">
+    <state width="746" height="162" key="GridCell.Tab.0.right" timestamp="1593641379115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593641379115" />
     <state width="1887" height="255" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590790923421" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587265978093" />
     <state width="939" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587264460495" />
-    <state width="748" height="180" key="GridCell.Tab.1.bottom" timestamp="1593357892037">
+    <state width="746" height="180" key="GridCell.Tab.1.bottom" timestamp="1593639260586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="180" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593639260586" />
     <state width="1887" height="255" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="748" height="180" key="GridCell.Tab.1.center" timestamp="1593357892037">
+    <state width="746" height="180" key="GridCell.Tab.1.center" timestamp="1593639260586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="180" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593639260586" />
     <state width="1887" height="255" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="748" height="180" key="GridCell.Tab.1.left" timestamp="1593357892037">
+    <state width="746" height="180" key="GridCell.Tab.1.left" timestamp="1593639260586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="180" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593639260586" />
     <state width="1887" height="255" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
-    <state width="748" height="180" key="GridCell.Tab.1.right" timestamp="1593357892037">
+    <state width="746" height="180" key="GridCell.Tab.1.right" timestamp="1593639260586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="148" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1593185110977" />
-    <state width="748" height="180" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593357892037" />
+    <state width="746" height="180" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593639260586" />
     <state width="1887" height="255" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590790924281" />
     <state x="1093" y="133" key="RollbackChangesDialog" timestamp="1588002879846">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1093" y="133" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588002879846" />
-    <state x="160" y="31" key="SettingsEditor" timestamp="1593376633468">
+    <state x="160" y="31" key="SettingsEditor" timestamp="1593550103975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="133" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591125054636" />
-    <state x="160" y="31" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593376633468" />
+    <state x="160" y="31" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593550103975" />
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
     <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
