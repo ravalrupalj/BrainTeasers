@@ -3,21 +3,8 @@
 #List order is:
 #[int, str, bool, list, tuple, dictionary]
 def count_datatypes(*args):
-    d={'int':0,'str':0,'bool':0,'list':0,'tuple':0,'dictionary':0}
-    for i in args:
-        if isinstance(i,bool):
-            d['bool']=d['bool']+1
-        elif isinstance(i,int):
-            d['int']=d['int']+1
-        elif isinstance(i,str):
-            d['str']=d['str']+1
-        elif isinstance(i,list):
-            d['list']=d['list']+1
-        elif isinstance(i,tuple):
-            d['tuple']=d['tuple']+1
-        elif isinstance(i,dict):
-            d['dictionary']=d['dictionary']+1
-    return list(d.values())
+    lst=[type(i) for i in args]
+    return  [lst.count(i) for i in (int, str, bool, list, tuple, dict)]
 print(count_datatypes(1, 45, "Hi", False) )
 #➞ [2, 1, 1, 0, 0, 0]
 
