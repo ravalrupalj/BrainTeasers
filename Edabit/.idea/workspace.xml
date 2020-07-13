@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Count_the_Number_of_du">
+  <component name="RunManager" selected="Python.MIni_Sudoku">
     <configuration name="Count_and_Identify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Loves_Me_Loves_Me" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MIni_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loves_Me_Loves_Me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MIni_Sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MIni_Sudoku" />
         <item itemvalue="Python.Count_the_Number_of_du" />
         <item itemvalue="Python.Creating_a_Picture_Frame" />
         <item itemvalue="Python.Highest_Pair" />
         <item itemvalue="Python.Count_and_Identify" />
-        <item itemvalue="Python.Loves_Me_Loves_Me" />
       </list>
     </recent_temporary>
   </component>
