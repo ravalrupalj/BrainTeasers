@@ -6,12 +6,12 @@ from math import ceil
 def cars_needed(people):
     return ceil(people/5)
 #OR
-    if n == 0 :
-        return 0
-    elif n % 5 == 0 :
-        return (n // 5)
-    else :
-        return (n // 5) + 1
+    #if n == 0 :
+    #    return 0
+    #elif n % 5 == 0 :
+    #    return (n // 5)
+    #else :
+    #    return (n // 5) + 1
 print(cars_needed(5))
 #➞ 1
 print(cars_needed(11))

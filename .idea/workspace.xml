@@ -67,7 +67,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Small_Projects/Selenium" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -267,10 +267,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1035" y="0" key="#Day_5.3/0.0.1920.1160@0.0.1920.1160" timestamp="1587420295416" />
-    <state x="867" y="251" width="514" height="370" key="#Notifications" timestamp="1593207112552">
+    <state x="867" y="251" width="514" height="370" key="#Notifications" timestamp="1594952307420">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="867" y="251" width="514" height="370" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1593207112552" />
+    <state x="867" y="251" width="514" height="370" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1594952307420" />
     <state x="1065" y="462" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1587387052675" />
     <state x="1115" y="89" key="#Wumbology" timestamp="1586897677460">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -293,11 +293,11 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1175" y="232" key="EnvironmentVariablesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588972209959" />
-    <state x="830" y="178" key="FileChooserDialogImpl" timestamp="1593722099564">
+    <state x="830" y="178" key="FileChooserDialogImpl" timestamp="1594952324624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="692" y="164" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1592519256568" />
-    <state x="830" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593722099564" />
+    <state x="830" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594952324624" />
     <state x="1038" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586973629278" />
     <state x="1038" y="251" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588002798778" />
     <state width="746" height="180" key="GridCell.Tab.0.bottom" timestamp="1593722102186">
@@ -360,11 +360,11 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1093" y="133" key="RollbackChangesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588002879846" />
-    <state x="160" y="31" key="SettingsEditor" timestamp="1593550103975">
+    <state x="160" y="31" key="SettingsEditor" timestamp="1594952293163">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="133" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591125054636" />
-    <state x="160" y="31" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593550103975" />
+    <state x="160" y="31" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594952293163" />
     <state x="696" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586897210994" />
     <state x="199" y="44" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1587420648538" />
     <state x="149" y="54" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1587266661212" />
