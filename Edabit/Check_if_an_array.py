@@ -1,3 +1,6 @@
+#Check if an array is sorted and rotated
+
+#Given a list of distinct integers, create a function that checks if the list is sorted and rotated clockwise. If so, return "YES"; otherwise return "NO".
 def check(lst):
     posi = sorted(lst)
     for i in range(0,len(lst)-1):
@@ -7,9 +10,6 @@ def check(lst):
             return "YES"
 
     return 'NO'
-
-#def arrange(lst):
-
 
 print(check([3, 4, 5, 1, 2]))
 #➞ "YES"
