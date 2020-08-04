@@ -47,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Add_two_string">
+  <component name="RunManager" selected="Python.Check_if_an_array">
     <configuration name="4_Passengers_and_a_Driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Count_the_Number_of_du" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Check_if_an_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Count_the_Number_of_du.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Check_if_an_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,14 +155,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Check_if_an_array" />
         <item itemvalue="Python.Add_two_string" />
         <item itemvalue="Python.4_Passengers_and_a_Driver" />
         <item itemvalue="Python.Balancing_Scales" />
         <item itemvalue="Python.MIni_Sudoku" />
-        <item itemvalue="Python.Count_the_Number_of_du" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -197,38 +198,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594837953205" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1594972886853">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594972886853" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1594972886853">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594972886853" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1594972886853">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594972886853" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1594972886853">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594972886853" />
-    <state width="746" height="195" key="GridCell.Tab.1.bottom" timestamp="1594343816166">
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="195" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594343816166" />
-    <state width="746" height="195" key="GridCell.Tab.1.center" timestamp="1594343816166">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="195" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594343816166" />
-    <state width="746" height="195" key="GridCell.Tab.1.left" timestamp="1594343816166">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="195" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594343816166" />
-    <state width="746" height="195" key="GridCell.Tab.1.right" timestamp="1594343816166">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1596508133515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="195" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594343816166" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596508133515" />
     <state x="291" y="0" key="SettingsEditor" timestamp="1594972846644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -251,6 +252,15 @@
           <url>file://$PROJECT_DIR$/Count_the_Number_of_du.py</url>
           <line>3</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Check_if_an_array.py</url>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Check_if_an_array.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
