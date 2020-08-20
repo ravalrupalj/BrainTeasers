@@ -6,7 +6,13 @@
 #If the square of every item in p is also a factor of x, then x is said to be a powerful number.
 #Create a function that takes a number and returns True if it's powerful, False if it's not.
 def is_powerful(num):
-    return [d for d in num if isprime(d)]
+    i=1
+    l=[]
+    while i<=num:
+        if num%i==0:
+            l.append(i)
+        i=i+1
+    return l
 
 print(is_powerful(36))
 #➞ True
